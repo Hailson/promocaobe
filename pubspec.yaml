@@ -28,6 +28,7 @@ dependencies:
   firebase_auth: ^0.11.1+7 #autenticao
   firebase_storage: ^3.0.2 #armazenamento 
   cloud_firestore: ^0.12.5+2 #banco de dados
+  qr_flutter: ^3.2.0 # Gerar QrCode
 
 dev_dependencies:
   flutter_test:
